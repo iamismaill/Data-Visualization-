@@ -4,4 +4,4 @@ Within this repository, you will find a collection of my data visualization work
 
 ### Power BI
 
-* Data Professional Survey 
+* Data Professional Survey [Check Out](https://github.com/iamismaill/Data-Visualization-/tree/main/Power%20BI/data_professional_survey)
