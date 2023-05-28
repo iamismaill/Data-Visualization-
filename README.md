@@ -5,3 +5,7 @@ Within this repository, you will find a collection of my data visualization work
 ### Power BI
 
 * Data Professional Survey [Link](https://github.com/iamismaill/Data-Visualization-/tree/main/Power%20BI/data_professional_survey)
+
+### Tableau
+
+* HR Dashboard [Link](https://public.tableau.com/app/profile/ismail.abdulhakin/viz/HRDashboard_Portfolio/Dashboard2?publish=yes)
